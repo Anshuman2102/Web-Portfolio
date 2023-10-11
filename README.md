@@ -24,7 +24,7 @@ The project is organized as follows:
 - `README.md`: You're reading it right now!
 
 ## Preview
-![Screenshot (35)](https://github.com/Anshuman2102/Portfolio/assets/86787631/4ff44455-fa1a-4605-8038-69bf711a3113)
+![Screenshot (35)](https://github.com/Anshuman2102/Web-Portfolio/assets/86787631/93c75d70-70cb-4d94-9332-00a6900dbf5b)
 
 
 ## Technologies Used
