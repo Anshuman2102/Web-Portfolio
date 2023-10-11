@@ -16,7 +16,7 @@ This repository contains the source code and assets for my personal portfolio we
 
 The project is organized as follows:
 
-- `index.html`: The main HTML file that serves as the entry point to the website.
+- `index.ejs`: The main HTML file that serves as the entry point to the website.
 - `assets`: All the documents are stored here.
 - `styles/`: This directory contains the CSS stylesheets for the website.
 - `js/`: JavaScript used for interactivity is stored here.
