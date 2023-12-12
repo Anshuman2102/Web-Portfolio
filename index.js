@@ -11,8 +11,8 @@ app.use(express.json())
 let mailTransporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "portfoliomessage880@gmail.com",
-      pass: "ryeucajakvuaejec",
+      user: "adhikarianshuman21@gmail.com",
+      pass: "ovmu qwxh tmwp ownq",
     },
   });
 
